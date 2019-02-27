@@ -125,10 +125,6 @@
     "eslint-plugin-react": "7.9.1",
     "eslint-plugin-redux-saga": "0.9.0",
     "prettier": "^1.16.4",
-<<<<<<< HEAD
-    "rah": "git+ssh://git@gitlab.com:racepointenergy/serverless/rah.git"
-=======
     "rah": "git+ssh://git@gitlab.com:racepointenergy/website/rah.git"
->>>>>>> dev/nels/rewrite
   }
 }

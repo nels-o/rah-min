@@ -23,39 +23,6 @@
     ]
   },
   "pre-commit": "lint:staged",
-  "babel": {
-    "plugins": [
-      "styled-components"
-    ],
-    "presets": [
-      [
-        "env",
-        {
-          "modules": false
-        }
-      ],
-      "react",
-      "stage-0"
-    ],
-    "env": {
-      "production": {
-        "only": [
-          "src"
-        ],
-        "plugins": [
-          "transform-react-remove-prop-types",
-          "transform-react-inline-elements",
-          "transform-react-constant-elements"
-        ]
-      },
-      "test": {
-        "plugins": [
-          "transform-es2015-modules-commonjs",
-          "dynamic-import-node"
-        ]
-      }
-    }
-  },
   "dependencies": {
     "@aspnet/signalr": "^1.0.3",
     "@vx/axis": "0.0.171",

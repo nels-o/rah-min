@@ -56,6 +56,7 @@ const render = messages => {
     MOUNT_NODE,
   );
 };
+render();
 
 // Install ServiceWorker and AppCache in the end since
 // it's not most important operation and if main code fails,

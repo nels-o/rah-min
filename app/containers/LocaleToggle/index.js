@@ -12,7 +12,7 @@ import { createSelector } from 'reselect';
 import Toggle from 'components/Toggle';
 import Wrapper from './Wrapper';
 import messages from './messages';
-import { appLocales } from '../../i18n';
+// import { appLocales } from '../../i18n';
 import { changeLocale } from '../LanguageProvider/actions';
 import { makeSelectLocale } from '../LanguageProvider/selectors';
 
@@ -23,7 +23,7 @@ export class LocaleToggle extends React.PureComponent {
       <Wrapper>
         <Toggle
           value={this.props.locale}
-          values={appLocales}
+          { /* values={appLocales} */ }
           messages={messages}
           onToggle={this.props.onLocaleToggle}
         />

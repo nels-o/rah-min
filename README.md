@@ -5,7 +5,7 @@ This is a tiny test application to demonstrate [`rah`](https://github.com/nels-o
 ## Getting started
 
 ```
-git clone git@gitlab.com:racepointenergy/website/rah-demo.git
+git clone git@github.com:nels-o/rah-min.git
 npm install
 npm run build:dll
 npm start

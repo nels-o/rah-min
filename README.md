@@ -1,6 +1,6 @@
 # `rah-demo`
 
-This is a tiny test application based on the `react-boilerplate` demo that comes included be default. It's been updated to work with `styled-components` v4.
+This is a tiny test application to demonstrate (`rah`)[https://github.com/nels-o/rah] based on the `react-boilerplate` demo that comes included be default. It's been updated to work with `styled-components` v4.
 
 ## Getting started
 

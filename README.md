@@ -1,6 +1,6 @@
 # `rah-min`
 
-This is a tiny test application to demonstrate [`rah`](https://github.com/nels-o/rah) based on the [`react-boilerplate`](https://github.com/react-boilerplate/react-boilerplate) demo that comes included be default. It's been updated to work with `styled-components` v4.
+This is a tiny test application to demonstrate [`rah`](https://github.com/nels-o/rah) based on the [`react-boilerplate`](https://github.com/react-boilerplate/react-boilerplate) demo that comes included with the boilerplate.
 
 ## Getting started
 
